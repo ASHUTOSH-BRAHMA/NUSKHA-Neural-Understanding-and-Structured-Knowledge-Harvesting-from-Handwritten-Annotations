@@ -222,4 +222,4 @@ The current project includes:
 
 ## Project Description
 
-NUSKHA is a multimodal medical OCR system that recognizes handwritten annotations in Indian prescriptions. It uses image enhancement and vision-language modeling to extract medicines, dosage, diagnosis, and SOAP notes into structured JSON for faster prescription digitization and healthcare record management.
+NUSKHA is a multimodal medical OCR system for recognizing handwritten Indian prescriptions. It combines image enhancement with vision-language models to extract medicines, dosages, diagnoses, and SOAP notes into structured JSON. The system streamlines prescription digitization, reduces manual effort, and supports efficient healthcare record management in real-world clinical settings.
