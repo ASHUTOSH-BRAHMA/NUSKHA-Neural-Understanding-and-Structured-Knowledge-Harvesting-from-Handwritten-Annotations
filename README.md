@@ -1,0 +1,2 @@
+# NUSKHA-Neural-Understanding-and-Structured-Knowledge-Harvesting-from-Handwritten-Annotations
+NUSKHA is a multimodal medical OCR system that recognizes handwritten annotations in Indian prescriptions. It uses image enhancement and vision-language modeling to extract medicines, dosage, diagnosis, and SOAP notes into structured JSON for faster prescription digitization and healthcare record management.
