@@ -1,6 +1,6 @@
 # NUSKHA
 
-**Neural Understanding and Structured Knowledge Harvesting from Handwritten Annotations in Indian Medical Prescriptions**
+**Neural Understanding and Structured Knowledge Harvesting from Handwritten Annotations in Medical Prescriptions**
 
 NUSKHA is a multimodal medical OCR project for recognizing handwritten and scanned Indian medical prescriptions. It combines image preprocessing, prescription-specific dataset loading, and vision-language OCR modeling to convert unstructured prescription images into structured clinical data.
 
