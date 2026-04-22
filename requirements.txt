@@ -1,0 +1,24 @@
+# Core Deep Learning
+torch>=1.13.0
+torchvision>=0.14.0
+
+# Transformers (Donut, ViT, TrOCR support)
+transformers>=4.35.0
+sentencepiece>=0.1.99
+tokenizers>=0.14.0
+
+# Image Processing
+opencv-python>=4.8.0
+Pillow>=9.5.0
+numpy>=1.23.0
+
+# Data Handling
+tqdm>=4.66.0
+pyyaml>=6.0
+
+# Optional (recommended for experiments)
+scikit-image>=0.21.0
+albumentations>=1.3.1
+
+# Logging & Debugging (optional)
+matplotlib>=3.7.0

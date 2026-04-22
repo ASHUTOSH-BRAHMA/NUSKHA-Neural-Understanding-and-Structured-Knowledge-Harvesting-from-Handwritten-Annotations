@@ -1,0 +1,965 @@
+[
+  {
+    "fileName": "1.jpg",
+    "SOAP": {
+      "Subjective": "70-year-old patient (Patient 30) requiring cardiac medication management.",
+      "Objective": "Prescription dated 1 Nov 1994 by Dr. B. Who.",
+      "Assessment": "Clinical condition requiring Digoxin (likely heart failure or atrial fibrillation).",
+      "Plan": "Digoxin 0.125 mg tablets. Take 1 tablet daily (1 dd). Dispense quantity no. 7."
+    }
+  },
+  {
+    "fileName": "2.jpg",
+    "SOAP": {
+      "Subjective": "Ms. Prathna presenting with gastrointestinal distress.",
+      "Objective": "Examination by Dr. R. Keshwani on 15-03-17.",
+      "Assessment": "Acute Gastroenteritis (GE) with Dehydration.",
+      "Plan": "1. Tab Oflazest OZ (1-0-1). 2. Tab Azenac-MR (1-0-1). 3. Tab Andial (2 tablets initially, then 1 tablet every 6 hours). 4. Tab Zofer MD (1-0-1). Treatment duration for 3 days."
+    }
+  },
+  {
+    "fileName": "3.jpg",
+    "SOAP": {
+      "Subjective": "C.B. Howard presenting for localized treatment.",
+      "Objective": "Note dated April 1st, 1921, by Dr. N.M. Rhodes.",
+      "Assessment": "Clinical need for local anesthesia/vasoconstriction.",
+      "Plan": "Compound solution of Cocaine Hydrochlor (grs IX), Adrenalin Chlor (m VIII), and Normal Saline Sol (ad 3ss). Signa: Apply locally."
+    }
+  },
+  {
+    "fileName": "4.jpg",
+    "SOAP": {
+      "Subjective": "Laxmi, 52-year-old female, complaining of abdominal pain and vomiting. Patient has a history of Type 2 Diabetes (T2DM) and Hypertension (HTN).",
+      "Objective": "Pulse: 80/min, B.P.: 120/80 mmHg. Clinical examination of CVS, CNS, and RS are within normal limits (WNL).",
+      "Assessment": "Cholelithiasis with Gallbladder Malignancy; Choledocholithiasis with moderate dilatation of extrahepatic and intrahepatic biliary radicles; multiple peripancreatic and metastatic lymph nodes.",
+      "Plan": "1. Inj Diclofenac (AQ) 75mg IM Stat. 2. Inj Pantop 40mg IV Stat. Follow up with Senior Resident (SR) Surgery."
+    }
+  },
+  {
+    "fileName": "5.jpg",
+    "SOAP": {
+      "Subjective": "Pediatric patient (weight 14.9 kg) presenting with symptoms requiring fever and cough management.",
+      "Objective": "Temperature chart initiated. Clinical note dated 7/19.",
+      "Assessment": "Pediatric febrile illness with respiratory symptoms.",
+      "Plan": "1. Syp Ephedrex: 3.5 ml to 4 ml twice daily (1-0-1). 2. Syp Crocin DS: 4 ml SOS (as needed) for fever. 3. Syp Meftal-P: 4 ml SOS (as needed) for fever."
+    }
+  },
+  {
+    "fileName": "6.jpg",
+    "SOAP": {
+      "Subjective": "Manmohan, 55-year-old male, admitted with respiratory complications.",
+      "Objective": "Patient under care of Dr. Abhishek in the RMO COVID ward.",
+      "Assessment": "COVID Pneumonia.",
+      "Plan": "Remdesivir treatment protocol: Inj Remdesivir 200 mg IV Stat (loading dose), followed by 100 mg IV OD (once daily) for 4 days. Total 6 vials."
+    }
+  },
+  {
+    "fileName": "7.jpg",
+    "SOAP": {
+      "Subjective": "Shanaya, 6-month-old female, presenting with cold and cough for 2 days and fever for 1 day.",
+      "Objective": "Weight: 6.6 kg. Temperature: 98°F. Examined by Dr. D. Ravi Shankar on 22/11/19.",
+      "Assessment": "Pediatric upper respiratory tract infection and local skin irritation.",
+      "Plan": "1. T-Minic drops: 0.3 ml (0.3-0.3-0.3). 2. Asthakind drops: 0.4 ml (0.4-0.4-0.4). 3. Advent drops: 0.8 ml (0.8-0.8-0.8). 4. Nasoclear nasal drops: SOS. 5. HHZole cream: Apply twice daily. Duration: 3 days."
+    }
+  },
+  {
+    "fileName": "8.jpg",
+    "SOAP": {
+      "Subjective": "Patient presenting with persistent symptoms and a burning sensation in the back. History of Diabetes Mellitus (DM+), non-hypertensive (HTN-), and reformed user of alcohol and tobacco.",
+      "Objective": "Cardiac evaluation not yet done.",
+      "Assessment": "Known case of Functional Dyspepsia; suspected Paresthesia.",
+      "Plan": "1. Neurology Consultation for paresthesia. 2. Glycemic control management. 3. T. Sompraz 40 mg: 1-0-0 (Before Food) for 1 month. 4. T. Normaxin-RT: 0-0-1 (Before Food) for 1 month."
+    }
+  },
+  {
+    "fileName": "9.jpg",
+    "SOAP": {
+      "Subjective": "Joseph McIntyre (DOB: 12/26/1998), weight 65 kg, with no known drug allergies (NKDA).",
+      "Objective": "Prescription dated March 10, 2009, by CO Jones, ARNP.",
+      "Assessment": "Bacterial infection requiring antibiotic therapy.",
+      "Plan": "Azithromycin 200 mg/5mL oral suspension. Day 1: 15 mL. Day 2: 7.5 mL. Dispense 5 mg/mL solution, total 30 mL. 0 refills."
+    }
+  },
+  {
+    "fileName": "10.jpg",
+    "SOAP": {
+      "Subjective": "Mr. Ch. Samuel, 62-year-old male.",
+      "Objective": "Patient admitted with IP No: 367588 under the care of Dr. Naveen Polavarapu on 24/8/21.",
+      "Assessment": "Severe sepsis with Multiple Organ Dysfunction Syndrome (MODS), likely secondary to liver abscess with aspiration pneumonia.",
+      "Plan": "Ongoing treatment in the ICU. Patient requires an additional hospital stay of approximately 8-10 days for complete recovery."
+    }
+  },
+  {
+    "fileName": "11.jpg",
+    "SOAP": {
+      "Subjective": "3-year-old female (Seerat) presenting with fever and symptoms of Acute Respiratory Infection (ARI).",
+      "Objective": "Patient seen by Dr. Ashok Gupta on 04 Nov 2019.",
+      "Assessment": "Fever / Acute Respiratory Infection (ARI).",
+      "Plan": "1. Syp. Sumol DS: 4 ml, every 4 hours if SOS (as needed). 2. Syp. Mucolite LS: 2.5 ml, TDS (three times a day). 3. Tab. Meftal-P: 1 tablet SOS (as needed). Review in 3 days."
+    }
+  },
+  {
+    "fileName": "12.jpg",
+    "SOAP": {
+      "Subjective": "Patient requiring pain management and circulatory support.",
+      "Objective": "Entry dated 15.01.05.",
+      "Assessment": "Not explicitly stated; likely post-operative or chronic pain management.",
+      "Plan": "1. Effortil (Trpf): Circulatory support. 2. Novalgin: 4 x 20 Trpf (drops) fixed schedule. 3. PCA (Patient-Controlled Analgesia) increased."
+    }
+  },
+  {
+    "fileName": "13.jpg",
+    "SOAP": {
+      "Subjective": "Patient: John Beckworth.",
+      "Objective": "Date: 31/08/06.",
+      "Assessment": "Insomnia or anxiety (indicated by medication type).",
+      "Plan": "Hypnodorm 2mg tablets. Take as directed by physician."
+    }
+  },
+  {
+    "fileName": "14.jpg",
+    "SOAP": {
+      "Subjective": "Mr. Ajay Sethi, 62-year-old male.",
+      "Objective": "Date: 24/04/21. Diagnosis: COVID +ve.",
+      "Assessment": "COVID-19 infection.",
+      "Plan": "1. Inj REMDEC (Remdesivir): 200 mg STAT (immediately), followed by 100 mg OD (once daily) for 4 days. 2. Inj Actemra (Tocilizumab): 400 mg OD x 2 doses, with a gap of 2 days."
+    }
+  },
+  {
+    "fileName": "15.jpg",
+    "SOAP": {
+      "Subjective": "Todd Braggs.",
+      "Objective": "Date: 03-10-06. Clinic: Doctors Urgent Care.",
+      "Assessment": "Pain management / Opioid dependency therapy.",
+      "Plan": "Methadone 40mg. Take 1 tablet T.I.D. (three times a day) for pain. Quantity: #90. Refills: 0."
+    }
+  },
+  {
+    "fileName": "16.jpg",
+    "SOAP": {
+      "Subjective": "Patient reporting pain.",
+      "Objective": "Date: 17/10/17.",
+      "Assessment": "Pain management.",
+      "Plan": "Paracetamol 1g PO (by mouth). Frequency: QDS (four times a day). Special Instructions: Every 4 hours for pain. Maximum dose in 24 hrs: 4g."
+    }
+  },
+  {
+    "fileName": "17.jpg",
+    "SOAP": {
+      "Subjective": "Mr. Sachin Sansare, 28-year-old male.",
+      "Objective": "Date: 12/10/22. Dental Clinic: The White Tusk.",
+      "Assessment": "Post-dental procedure/infection management.",
+      "Plan": "1. Tab. Augmentin 625mg: 1-0-1 (twice daily) after meals for 5 days. 2. Tab. Enzoflam: 1-0-1 (twice daily) after meals for 5 days. 3. Tab. Pan-D 40mg: 1-0-0 (once daily) before meals for 5 days. 4. Hexigel gum paint: Massage 1-0-1 for 1 week."
+    }
+  },
+  {
+    "fileName": "18.jpg",
+    "SOAP": {
+      "Subjective": "Shorty Powell.",
+      "Objective": "Date: 11/16/10.",
+      "Assessment": "Seizure disorder or epilepsy.",
+      "Plan": "Phenytoin Sodium Extended 100 mg. Take 1 tablet T.I.D. (three times a day). Quantity: #90. Refills: 5."
+    }
+  },
+  {
+    "fileName": "19.jpg",
+    "SOAP": {
+      "Subjective": "Patient involved in a motorcycle accident on 4/23/2021.",
+      "Objective": "Date: 4/28/2021. Note certifies patient is under physician care.",
+      "Assessment": "Multiple physical injuries secondary to motorcycle accident.",
+      "Plan": "Patient advised moderate rest. (Medical Certificate format)."
+    }
+  },
+  {
+    "fileName": "20.jpg",
+    "SOAP": {
+      "Subjective": "Mrs. J. Paris.",
+      "Objective": "Date: 7/17/51.",
+      "Assessment": "Hormonal therapy (Stilbestrol is a synthetic estrogen).",
+      "Plan": "Stilbestrol 25mg (Milestrol). Sig: 1 tablet every 4 hours for 8 days, then 1 tablet daily (qd)."
+    }
+  },
+  {
+    "fileName": "21.jpg",
+    "SOAP": {
+      "Subjective": "Mr. CH. Samuel, 62-year-old male, currently admitted under ICU care.",
+      "Objective": "Patient ID No: 367588. Under the care of Dr. Naveen Polavarapu.",
+      "Assessment": "Severe sepsis with MODS (Multiple Organ Dysfunction Syndrome), likely secondary to liver abscess with aspiration pneumonia.",
+      "Plan": "Further hospital stay of 8-10 days required for complete recovery."
+    }
+  },
+  {
+    "fileName": "22.jpg",
+    "SOAP": {
+      "Subjective": "Bertha Greenberg, residing at 804 S. 18th St.",
+      "Objective": "Prescription dated 7/25/28 by Dr. William Lewis Towns.",
+      "Assessment": "Clinical condition requiring a topical compounded paint (likely for pain or inflammation).",
+      "Plan": "Compounded prescription containing Iodine, Opium, Belladonna, and Aconite. Sig: Paint as directed morning and evening."
+    }
+  },
+  {
+    "fileName": "23.jpg",
+    "SOAP": {
+      "Subjective": "Patient reporting abdominal pain increased on food intake (gastritis symptoms for 1 week) and headache for 3 days.",
+      "Objective": "Clinical note dated 24 May 2017.",
+      "Assessment": "Gastritis and Tension Headache.",
+      "Plan": "1. Tab. Ranitidine 150mg BD (twice daily) for 5 days. 2. Tab. Paracetamol 500mg TDS (three times daily) for 5 days."
+    }
+  },
+  {
+    "fileName": "24.jpg",
+    "SOAP": {
+      "Subjective": "Patient with history of Hypertension (HT).",
+      "Objective": "ECG shows ASMI (Anteroseptal Myocardial Infarction). ECHO shows LVEF 45%. BP: 127/77, Pulse: 74/min. Trop T test conducted.",
+      "Assessment": "Recent Anteroseptal Myocardial Infarction (ASMI); Hypertension.",
+      "Plan": "1. T. Deplatt A 150mg (OD). 2. T. Aztor 80mg (OD). 3. T. Nitrocantin 2.6mg (BD)."
+    }
+  },
+  {
+    "fileName": "25.jpg",
+    "SOAP": {
+      "Subjective": "L.E. Stegner, Alum Creek Drive.",
+      "Objective": "Prescription dated 10/5/24 from Walton Physicians Supply Co.",
+      "Assessment": "Requirement for rectal medication (suppositories).",
+      "Plan": "Compounded suppositories containing Pulv. Opium (gr XXIV), Ex. Belladonna (gr VI), and Ichthyol in Cocoa Butter (Ol. Theobromae). Sig: One as directed morning and evening. Quantity: No. XXIV."
+    }
+  },
+  {
+    "fileName": "26.jpg",
+    "SOAP": {
+      "Subjective": "Vasquez Ramon, seen at Medical Center Hospital, Odessa, Texas.",
+      "Objective": "Date: 6/23/95.",
+      "Assessment": "Hypertension, Iron Deficiency Anemia, and Diabetes Mellitus.",
+      "Plan": "1. Zestril 20mg: Take 20mg PO Q24h (Quantity #120). 2. Ferrous Sulfate 300mg: Take 300mg PO TID with meals (Quantity #100). 3. Humulin N: 30 units SQ QAM (every morning)."
+    }
+  },
+  {
+    "fileName": "27.jpg",
+    "SOAP": {
+      "Subjective": "Patient 'Mansur' currently undergoing dialysis in Greenbrae.",
+      "Objective": "Correspondence written on Minipress (Prazosin HCl) promotional stationery.",
+      "Assessment": "End-stage renal disease (requiring dialysis).",
+      "Plan": "Continue current dialysis regimen; finalized statements on organizational issues discussed."
+    }
+  },
+  {
+    "fileName": "28.jpg",
+    "SOAP": {
+      "Subjective": "Mr. Subhash Kumar Kulshreshtha, 73-year-old male, admitted to EICU/EICU1.",
+      "Objective": "IP No: 21/4643. UHID: 896539. Date of Admission: 16/05/2021. Managed by Dr. Amol Patil (ENT).",
+      "Assessment": "Systemic fungal infection (likely Mucormycosis given date and setting).",
+      "Plan": "Inj. Liposomal Amphotericin B: 300mg (6 vials) per day IV."
+    }
+  },
+  {
+    "fileName": "29.jpg",
+    "SOAP": {
+      "Subjective": "John R. Doe, HM3, USN, aboard U.S.S. Neverforgotten (DD 178).",
+      "Objective": "DOD Prescription (DD Form 1289) dated 23 Jan 99.",
+      "Assessment": "Gastrointestinal distress/hyperacidity.",
+      "Plan": "Compounded solution of Tr. Belladonna (15 ml) and Amphojel (qsad 120 ml). Sig: 5ml TID a.c. (three times daily before meals)."
+    }
+  },
+  {
+    "fileName": "30.jpg",
+    "SOAP": {
+      "Subjective": "Ms. Fiza Mozawala, 19-year-old female.",
+      "Objective": "Clinic: The White Tusk. Date: 13/10/2022.",
+      "Assessment": "Post-dental procedure or oral infection.",
+      "Plan": "1. Cap. Phexin 500mg: 1-0-1 (twice daily) for 5 days. 2. Tab. Zeeodol PT: 1-0-1 (twice daily) for 5 days. 3. Stolin gum paint: 1-0-1 (twice daily) for 5 days. 4. Colgate Plax mouthwash: 1 week. 5. Advised Oral B Pro 2 2000N electric brush."
+    }
+  },
+  {
+    "image_id": "31.jpg",
+    "subjective": "Patient Alan Johnson presents for evaluation; no specific symptoms recorded on prescription.",
+    "objective": "Address: 92 Ibis Lane. Prescriber: Dr. Alfred Sauls.",
+    "assessment": "Bacterial infection requiring antibiotic therapy.",
+    "plan": "Erythromycin ethylsuccinate 400 mg/5 mL. Sig: 1 tsp q.i.d. (four times a day) until all medication is taken. Dispense 100 mL."
+  },
+  {
+    "image_id": "32.jpg",
+    "subjective": "Patient Mrs. A. Denison, age 21.5, born 1990. Note appears to be a satirical or political statement signed by Milton Friedman.",
+    "objective": "NHS Number: 010011100. Address: 23 Grosvenor Road, Jesmond. Date: 14/11/11.",
+    "assessment": "Non-clinical/Political commentary.",
+    "plan": "Write out 'Capitalism is wonderful' one thousand times."
+  },
+  {
+    "image_id": "33.jpg",
+    "subjective": "Patient Rahul, 29-year-old male, presents with fever and pain.",
+    "objective": "Seen at P. D. Hinduja Hospital. Physical findings not detailed.",
+    "assessment": "Febrile illness with associated cough/pain.",
+    "plan": "1. Tab. Azee (Azithromycin) 500mg, 1-0-0 for 7 days. 2. Syp. Tusq, 1 tsp t.i.d. 3. Tab. Pan (Pantoprazole) 40mg, 1-0-0 for 7 days. 4. Tab. Dolo 650, SOS for fever/pain. 5. Increase oral fluids. 6. Follow up in Medical OPD with reports."
+  },
+  {
+    "image_id": "34.jpg",
+    "subjective": "Clinical symptoms not listed; handwriting indicates a respiratory or inflammatory context.",
+    "objective": "Handwritten prescription note.",
+    "assessment": "Acute condition requiring medication.",
+    "plan": "1. Fibax 120 (Fexofenadine), 1 x 1 x 5 days. 2. Jedonase Off, 1 x 1 x 5 days."
+  },
+  {
+    "image_id": "35.jpg",
+    "subjective": "Financial transaction record for R. Dowd.",
+    "objective": "Receipt dated 6/5/1979 for the sum of $3.50.",
+    "assessment": "Administrative: Annual sub 1978/80 for Cooma Little Theatre.",
+    "plan": "Payment received and filed."
+  },
+  {
+    "image_id": "36.jpg",
+    "subjective": "Mrs. Meena Devi, 50-year-old female. History of COVID-19 positive status with shortness of breath, chest pain, and general pain.",
+    "objective": "SpO2: 89% on RA (Room Air). HR: 88 bpm. Seen by Dr. Ravindra Kumar on 6/5/2021.",
+    "assessment": "Post-COVID complications with hypoxia.",
+    "plan": "1. Inj. Clexane 60 S/C. 2. Cap. Doxy-100mg BD. 3. Tab. MTH-16mg BD. 4. Tab. Montair-FX OD. 5. Tab. Vit C 500 BD. 6. Tab. Zinconia OD. 7. Tab. Metolar XL 25mg. 8. Tab. Ecosprin 75mg. 9. Tab. Xarelto 10mg OD. 10. Complete bed rest for 5 days. 11. Nebulization with Budecort & Duolin. 12. Lab work: CBC, CK/CK-MB, Trop-I, PRO-BNP, LFT, CRP."
+  },
+  {
+    "image_id": "37.jpg",
+    "subjective": "Patient presents with 'Sick headache' (Historical prescription).",
+    "objective": "Prescriber: Dr. W. P. Baker, Seattle.",
+    "assessment": "Severe migraine/headache.",
+    "plan": "Ext. Cannabis Ind. gr IV, Croton Chloral gr XV. Mix and make 16 capsules. Sig: Give one, repeat in 1/2 hour."
+  },
+  {
+    "image_id": "38.jpg",
+    "subjective": "Shila Dasgupta, 57-year-old female, presents with a right breast lump noticed 2 months ago.",
+    "objective": "O/E: T3N1 Lesion. USG: RB BIRADS 4 lesion. FNAC: Invasive Duct Carcinoma. Comorbidities: T2DM on OHA.",
+    "assessment": "Invasive Ductal Carcinoma of the Right Breast.",
+    "plan": "1. Core Biopsy (Right) Breast. 2. PET CT Scan. 3. Follow up with reports. 4. Check BSL (Blood Sugar Level) and FBS (Fasting Blood Sugar)."
+  },
+  {
+    "image_id": "39.jpg",
+    "subjective": "Historical note regarding a school situation; handwriting refers to 'no business before work' and mentions 'school integration' and 'basketball'.",
+    "objective": "Note on Dr. Leonidas H. Berry's letterhead.",
+    "assessment": "Social/Administrative note, non-clinical.",
+    "plan": "No clinical plan indicated."
+  },
+  {
+    "image_id": "40.jpg",
+    "subjective": "Ramachandra Rao, 60-year-old male. Patient is currently an in-patient.",
+    "objective": "Seen by Dr. Hari Kishan Boorugu at Yashoda Hospitals on 13/5/21.",
+    "assessment": "Fungal infection (likely Mucormycosis given the date and medication).",
+    "plan": "Inj. Phosome (Liposomal Amphotericin B / AmBisome) 300 mg IV in 5% Dextrose, once a day for 15 days."
+  },
+  {
+    "image_id": "41.jpg",
+    "subjective": "5-year-old patient presenting for pediatric evaluation. Clinical symptoms not noted.",
+    "objective": "Patient 29. Age: 5 years. Prescriber: Dr. B. Who. Date: 1 Nov 1994.",
+    "assessment": "Bacterial infection requiring antibiotic suspension.",
+    "plan": "Amoxicillin 50 mg/mL suspension. Sig: 3dd (three times daily) 5 mL. Finish course. (Use 5 mL spoon). Dispense 100 mL."
+  },
+  {
+    "image_id": "42.jpg",
+    "subjective": "Mario Carlos van der Vaart, 38-year-old male, presents for pain management.",
+    "objective": "Date: 20-01-2025. Facility: Klippa Medical Center, Groningen, Netherlands. Prescriber: Dr. Bill Andrew Balmer.",
+    "assessment": "Acute pain or inflammatory condition.",
+    "plan": "1. Paracetamol - 50mg. 2. Ibuprofen - 150mg."
+  },
+  {
+    "image_id": "43.jpg",
+    "subjective": "Historical record for Mr. R. W. Little (Copy).",
+    "objective": "Date: 25.1.1915. Facility: Carlton & Sons, Horncastle.",
+    "assessment": "Historical tonic/medication (contains strychnine).",
+    "plan": "Liq. Strych (Strychnine), Ac. Nit. Hyd. Dil., Glycerin, Aq. Chlorf. Sig: 1 dram t.d.s. (three times daily) ex aq. a.c. (in water before meals)."
+  },
+  {
+    "image_id": "44.jpg",
+    "subjective": "Patient Leonard F. Hubbard is suffering from chronic conditions disabling him from hard manual labor.",
+    "objective": "Historical handwritten medical note.",
+    "assessment": "1. Diabetes Mellitus. 2. Diarrhea. 3. Chronic Articular Rheumatism.",
+    "plan": "Recommend that the patient be placed on the 3rd class Pension Roll."
+  },
+  {
+    "image_id": "45.jpg",
+    "subjective": "Patient Kevin, age 200 (likely 2 months or 2 years based on context), weight 5.1 kg, presents for pediatric care.",
+    "objective": "Prescriber: Dr. Chandra Shekhar Jain (Pediatrician). Dates noted: 15/10 to 17/10.",
+    "assessment": "Pediatric illness with respiratory and/or GI symptoms.",
+    "plan": "1. Syr. Croxim, 1/2 - 1/2 tsp. 2. Syr. Cleaf (T-sue), 1/3 - 1/3 - 1/3 tsp. 3. Syr. B-mult, 7 - 7 - 7. 4. Syr. Asthacet, 6 - 6 - 6. 5. Syr. Polymal, 10 - 10 - 10. 6. Syr. Magra."
+  },
+  {
+    "image_id": "46.jpg",
+    "subjective": "Mrs. Ratna Harisri, 58-year-old female, presents for treatment of a fungal infection.",
+    "objective": "Date: 15-5-21. Facility: AIG Hospitals, Hyderabad. Prescriber: Dr. Srinivas Kishore / Dr. Saukeeth.",
+    "assessment": "Severe systemic fungal infection (likely Mucormycosis/Black Fungus based on date and drug).",
+    "plan": "Inj. AmbiSome 50mg (Liposomal Amphotericin B). Dispense 120 vials."
+  },
+  {
+    "image_id": "47.jpg",
+    "subjective": "Mrs. J. Paris presents for medication refill.",
+    "objective": "Date: 11/17/51. Facility: Midtown Park Pharmacy, Fairview, Texas. Prescriber: B. H. Mins.",
+    "assessment": "Condition requiring hormonal or estrogen therapy.",
+    "plan": "Stilbestrol 25 mg (Milestrol). Sig: 1 q.d. (once daily) for 8 days, then 1/2 q.d."
+  },
+  {
+    "image_id": "48.jpg",
+    "subjective": "Patient presenting in acute distress requiring immediate intervention.",
+    "objective": "Handwritten emergency/stat orders.",
+    "assessment": "Acute respiratory or hypertensive crisis.",
+    "plan": "1. Frusemide 40mg IV x 1 stat. 2. Adalat cap SL (sublingual). 3. Restrict flow to BP. 4. Nebulization q4h with Atrovent/Albuterol. 5. Keep O2 saturation > 95%."
+  },
+  {
+    "image_id": "49.jpg",
+    "subjective": "Patient presents for vision correction evaluation.",
+    "objective": "Vision prescription. RT O.D. (Right Eye): -2.00 -1.00 x 100. LT O.S. (Left Eye): -2.75 -0.75 x 90. Add: +2.25.",
+    "assessment": "Myopia with Astigmatism and Presbyopia.",
+    "plan": "Corrective lenses as per measurements provided."
+  },
+  {
+    "image_id": "50.jpg",
+    "subjective": "26-year-old patient from Tondo, Manila, presents for cardiologist consultation.",
+    "objective": "Date: 10/6/20. Facility: Manila Doctors Hospital. Prescriber: Dr. Rojoson.",
+    "assessment": "Cardiac evaluation pending laboratory results.",
+    "plan": "1. Bed rest for 2 days while waiting for lab results. 2. Fit to work from Oct. 7, 2020."
+  },
+  {
+    "image_id": "51.jpg",
+    "subjective": "Patient presents for primary care visit; no specific complaints documented.",
+    "objective": "Date: 11/28/2006. Facility: Fairview-University Medical Center. Medication prescribed: Atenolol 25 mg, quantity 30.",
+    "assessment": "Hypertension (inferred from medication).",
+    "plan": "Take Atenolol 25 mg orally once daily."
+  },
+  {
+    "image_id": "52.jpg",
+    "subjective": "Child presents with ear pain, fever, cold, and reduced appetite.",
+    "objective": "ENT examination suggests left ear infection.",
+    "assessment": "Acute otitis media.",
+    "plan": "1. Augmentin syrup 6 ml twice daily for 7 days. 2. Ambrodil-S syrup 4 ml twice daily. 3. Nasal drops. 4. Review after 2 weeks."
+  },
+  {
+    "image_id": "53.jpg",
+    "subjective": "Patient with known diabetes presents for routine follow-up.",
+    "objective": "Medications prescribed: Rendil 20 mg PO, Ferrous sulfate 300 mg TID, Humulin N insulin 30 units SQ.",
+    "assessment": "Type 2 Diabetes Mellitus with possible iron deficiency anemia.",
+    "plan": "Continue insulin therapy and oral medications as prescribed."
+  },
+  {
+    "image_id": "54.jpg",
+    "subjective": "Elderly patient presents for cardiac medication refill.",
+    "objective": "Date: 01 Mar 1994. Medication: Digoxin 0.125 mg once daily.",
+    "assessment": "Chronic cardiac condition (likely atrial fibrillation or heart failure).",
+    "plan": "Continue Digoxin 0.125 mg daily."
+  },
+  {
+    "image_id": "55.jpg",
+    "subjective": "Child presents with fever and general illness.",
+    "objective": "Labs: Hb 9.8 g/dL, ESR 25. Medications prescribed: Cefolac syrup, RB Tone Kid syrup, Wikoryl syrup.",
+    "assessment": "Bacterial infection with anemia.",
+    "plan": "1. Cefolac syrup 3 ml twice daily for 7 days. 2. RB Tone Kid syrup 2.5 ml once daily for 2 months. 3. Wikoryl syrup for 3 days."
+  },
+  {
+    "image_id": "56.jpg",
+    "subjective": "Patient presents with dental pain following dental procedure.",
+    "objective": "Dental advice note. Treatments advised: warm saline rinses, chlorhexidine mouthwash.",
+    "assessment": "Post-procedural dental pain/inflammation.",
+    "plan": "1. Warm saline rinses for 15 days. 2. Chlorhexidine mouthwash twice daily. 3. Ketorol DT SOS. 4. Follow-up appointment scheduled."
+  },
+  {
+    "image_id": "57.jpg",
+    "subjective": "Patient with severe fungal infection requiring urgent treatment.",
+    "objective": "Medications listed: Liposomal Amphotericin B IV or Amphotericin B IV or Isavuconazole IV/PO.",
+    "assessment": "Invasive fungal infection (likely mucormycosis).",
+    "plan": "Initiate antifungal therapy as per availability for 2–4 weeks with close monitoring."
+  },
+  {
+    "image_id": "58.jpg",
+    "subjective": "Post-COVID patient with right cheek pain, nasal discharge, headache, and vision issues.",
+    "objective": "Findings: Right middle meatus involvement, MRI brain/orbit advised.",
+    "assessment": "Suspected invasive fungal sinusitis (mucormycosis).",
+    "plan": "1. MRI brain and orbit. 2. Ophthalmology opinion. 3. Surgical debridement planned. 4. Start antifungal therapy."
+  },
+  {
+    "image_id": "59.jpg",
+    "subjective": "Patient presents with headache and nervous symptoms.",
+    "objective": "Historical handwritten prescription from Health Society, Philadelphia.",
+    "assessment": "Headache/nervous condition.",
+    "plan": "Administer prescribed mixture every 3 hours as directed."
+  },
+  {
+    "image_id": "60.jpg",
+    "subjective": "57-year-old female presents with chronic low back pain.",
+    "objective": "Findings: LBA x 2 years, BMI elevated, OA knee, bilateral SLR positive.",
+    "assessment": "Chronic low back pain with osteoarthritis.",
+    "plan": "1. X-ray LS spine. 2. Avoid prolonged posture >30 min. 3. Static back exercises and physiotherapy. 4. Review after 3 weeks."
+  },
+  {
+    "image_id": "61.jpg",
+    "subjective": "Author comments on the dangers of illegible handwriting, specifically doctors’ handwriting.",
+    "objective": "Handwritten note stating that more than 7000 people die every year due to poor handwriting, termed as 'death by prescription'.",
+    "assessment": "Public safety concern related to medical prescription errors.",
+    "plan": "Encouragement for doctors to ensure legible handwriting to prevent errors."
+  },
+  {
+    "image_id": "62.jpg",
+    "subjective": "Patient Lina Cruz presents with pain requiring analgesic management.",
+    "objective": "Date: 01/24/2017. Facility: Manila Doctors Hospital. Medication prescribed: Tramadol + Paracetamol tablets, quantity 20.",
+    "assessment": "Pain requiring opioid and non-opioid combination therapy.",
+    "plan": "Take 1 tablet every 6 hours as needed for pain."
+  },
+  {
+    "image_id": "63.jpg",
+    "subjective": "52-year-old female presents with abdominal pain and vomiting.",
+    "objective": "Date: July 18, 2021. Pulse: 80/min, BP: 120/80 mmHg. Imaging suggests gallbladder malignancy with choledocholithiasis and lymph node metastasis.",
+    "assessment": "Suspected gallbladder carcinoma with biliary obstruction and metastasis.",
+    "plan": "1. IV Diclofenac 75 mg stat. 2. IV Pantoprazole stat. 3. Refer to surgery department for further management."
+  },
+  {
+    "image_id": "64.jpg",
+    "subjective": "30-year-old male presents with fever for 3 days and known hypertension and hypothyroidism.",
+    "objective": "BP: 120/90 mmHg, PR: 80 bpm. Facility: Sai Clinic, Hyderabad.",
+    "assessment": "Fever with comorbid hypertension and hypothyroidism.",
+    "plan": "1. Continue antihypertensive and thyroid medications. 2. Prescribed statins and supplements for 30 days. 3. Advised investigations including CBC, ECG, 2D Echo, thyroid profile."
+  },
+  {
+    "image_id": "65.jpg",
+    "subjective": "Amateur radio operator confirms communication contact (QSO).",
+    "objective": "Date: 15/02/2013. Frequency: 14.285 MHz. Mode: SSB. Equipment: Yaesu FT-857D.",
+    "assessment": "Successful radio communication logged.",
+    "plan": "Log confirmation and exchange QSL card if required."
+  },
+  {
+    "image_id": "66.jpg",
+    "subjective": "Patient scheduled for IV antibiotic administration.",
+    "objective": "Medication: Pabrinex IV. Dose: 2 pairs. Time: 18:00–22:00.",
+    "assessment": "Vitamin B complex deficiency or supportive therapy indication.",
+    "plan": "Administer IV Pabrinex as scheduled."
+  },
+  {
+    "image_id": "67.jpg",
+    "subjective": "5-year-old child presents with infection requiring antibiotics.",
+    "objective": "Date: 01 Nov 1994. Medication: Amoxicillin suspension 50 mg/ml, total volume 100 ml.",
+    "assessment": "Bacterial infection in pediatric patient.",
+    "plan": "Administer 5 ml three times daily. Add 5 ml water to reconstitute suspension."
+  },
+  {
+    "image_id": "68.jpg",
+    "subjective": "Patient John Hubbard presents for medication management; no acute complaints noted.",
+    "objective": "Date: Dec 1, 2017. Facility: CHUS Sherbrooke. Medications: Acetaminophen 650 mg PRN, Aspirin 81 mg daily, Clopidogrel 75 mg daily.",
+    "assessment": "Coronary artery disease.",
+    "plan": "1. Acetaminophen 650 mg every 4 hours as needed. 2. Aspirin 81 mg PO daily. 3. Clopidogrel 75 mg PO daily."
+  },
+  {
+    "image_id": "69.jpg",
+    "subjective": "Pediatric patient presents with fever and cough.",
+    "objective": "Medications prescribed include syrups for fever and cough with dosing instructions.",
+    "assessment": "Acute febrile illness, likely viral or upper respiratory infection.",
+    "plan": "Administer prescribed syrups as directed and monitor symptoms."
+  },
+  {
+    "image_id": "70.jpg",
+    "subjective": "30-year-old patient presents with allergic rhinitis and severe throat pain.",
+    "objective": "Findings documented include allergic symptoms and throat inflammation.",
+    "assessment": "Allergic rhinitis with acute pharyngitis.",
+    "plan": "1. Neurokind Plus tablets for 30 days. 2. Orodent gargles twice daily using lukewarm water. 3. Symptomatic treatment and follow-up as needed."
+  },
+  {
+    "image_id": "71.jpg",
+    "subjective": "29-year-old male presents with presumed bacterial infection requiring antibiotics.",
+    "objective": "Name: Armando Cequia. Address: West Rembo, Makati City. Date: 12-03-1990. Prescription: Amoxicillin 500 mg capsules #21.",
+    "assessment": "Suspected bacterial infection.",
+    "plan": "Take 1 capsule three times daily for seven days."
+  },
+  {
+    "image_id": "72.jpg",
+    "subjective": "Patient requires short-term medication; specific complaint not documented.",
+    "objective": "Prescription note: Medication name unclear, dose 10 mg, quantity 100.",
+    "assessment": "Condition not clearly documented.",
+    "plan": "Take medication orally for 8 days as prescribed."
+  },
+  {
+    "image_id": "73.jpg",
+    "subjective": "31-year-old patient presents with pain and nausea.",
+    "objective": "Date: 01 Nov 1994. Medications prescribed: Paracetamol 500 mg tablets and Metoclopramide 10 mg tablets.",
+    "assessment": "Pain with associated nausea/vomiting.",
+    "plan": "1. Paracetamol 500 mg: take two tablets every 20 minutes after metoclopramide. 2. Metoclopramide 10 mg: one tablet every 8 hours as needed."
+  },
+  {
+    "image_id": "74.jpg",
+    "subjective": "Patient evaluated for renal symptoms; no acute pain reported.",
+    "objective": "Imaging report shows small radiopaque shadow in left renal region; bilateral kidneys excreting contrast normally.",
+    "assessment": "Small renal calculus in lower calyx of left kidney without hydronephrosis.",
+    "plan": "Conservative management; monitor symptoms and follow up as needed."
+  },
+  {
+    "image_id": "75.jpg",
+    "subjective": "64-year-old female presents for hospital documentation and assessment.",
+    "objective": "Facility: Perpetual Succour Hospital, Cebu City. Date: 12-08-2015. Assessment scores: S, N, A, P all 25/25.",
+    "assessment": "Normal assessment findings.",
+    "plan": "No further medical intervention required."
+  },
+  {
+    "image_id": "76.jpg",
+    "subjective": "57-year-old patient presents with fever, vomiting, weakness, and decreased appetite.",
+    "objective": "Vitals: BP 150/90 mmHg, PR 81/min, RR 22/min, Temp 102°F, SpO2 81%.",
+    "assessment": "Acute febrile illness with systemic symptoms.",
+    "plan": "1. Admit for monitoring. 2. Regular vital monitoring and RBS checks. 3. Supportive care."
+  },
+  {
+    "image_id": "77.jpg",
+    "subjective": "Amateur radio operator confirms QSO contact.",
+    "objective": "Date: May 24. Frequency: 14.250 MHz. Mode: SSB. Output: 100 watts.",
+    "assessment": "Successful radio communication.",
+    "plan": "Log QSO and confirm via QSL card."
+  },
+  {
+    "image_id": "78.jpg",
+    "subjective": "Child presents with right knee pain and difficulty climbing stairs.",
+    "objective": "Findings: No bony injury; right knee tenderness. Imaging advised.",
+    "assessment": "Right knee pain, likely soft tissue injury.",
+    "plan": "1. X-ray right knee. 2. Knee cap support. 3. Physiotherapy and exercises. 4. Diclofenac and supplements."
+  },
+  {
+    "image_id": "79.jpg",
+    "subjective": "Child presents with multiple episodes of vomiting in one day.",
+    "objective": "Weight: 10 kgs. Prescriptions include antiemetic syrup and ORS.",
+    "assessment": "Acute gastroenteritis with vomiting.",
+    "plan": "1. Syrup Ondansetron before meals. 2. ORS/coconut water. 3. Zinc and probiotics for 3–5 days."
+  },
+  {
+    "image_id": "80.jpg",
+    "subjective": "Patient presents with gastric discomfort and reduced oral intake.",
+    "objective": "Date: 17/03/2019. Prescriptions: Tab Lanol-ER after food, Tab Dompan before food.",
+    "assessment": "Acute gastritis/dyspepsia.",
+    "plan": "1. Take prescribed medications for 5 days. 2. Maintain fluids and electrolytes."
+  },
+  {
+    "image_id": "81.jpg",
+    "subjective": "Patient presents with gastrointestinal complaints; handwritten prescription notes symptoms not fully legible.",
+    "objective": "Handwritten prescription listing multiple oral medications; details partially illegible.",
+    "assessment": "Gastrointestinal condition, exact diagnosis unclear.",
+    "plan": "Medications prescribed as written; follow physician instructions."
+  },
+  {
+    "image_id": "82.jpg",
+    "subjective": "Patient referred for abdominal/renal imaging evaluation.",
+    "objective": "Ultrasound findings: Bilateral kidneys small with increased echogenicity; loss of corticomedullary differentiation; few cysts in left kidney; prostate enlarged; urinary bladder partially distended.",
+    "assessment": "Bilateral medical renal disease, Grade II.",
+    "plan": "Correlate clinically; nephrology follow-up advised."
+  },
+  {
+    "image_id": "83.jpg",
+    "subjective": "Amateur radio operator confirms radio contact.",
+    "objective": "QSO dated 23 June 2012, frequency 14.180 MHz, mode SSB, output 100W.",
+    "assessment": "Successful HAM radio communication.",
+    "plan": "Log QSO and confirm via QSL card."
+  },
+  {
+    "image_id": "84.jpg",
+    "subjective": "Patient presents for diabetes and anemia medication refill.",
+    "objective": "Medications prescribed: Rendil 20 mg, Ferrous sulfate 300 mg TID, Humulin N 30 units subcutaneous.",
+    "assessment": "Diabetes mellitus with iron deficiency anemia.",
+    "plan": "Continue prescribed medications and insulin as directed."
+  },
+  {
+    "image_id": "85.jpg",
+    "subjective": "31-year-old patient presents with pain and nausea.",
+    "objective": "Date: 1 Nov 1994. Medications: Paracetamol 500 mg tablets and Metoclopramide 10 mg tablets.",
+    "assessment": "Pain associated with nausea/vomiting.",
+    "plan": "1. Take Metoclopramide at onset of symptoms. 2. Paracetamol for pain relief as directed."
+  },
+  {
+    "image_id": "86.jpg",
+    "subjective": "Pediatric patient presents for routine illness management.",
+    "objective": "Patient: Abdul Malik, age 2 years. Medications prescribed include Megacobate syrup, antibiotic syrup, antipyretic, and suppository.",
+    "assessment": "Acute pediatric illness with fever and nutritional supplementation needs.",
+    "plan": "Administer prescribed syrups and suppository as directed; follow up if symptoms persist."
+  },
+  {
+    "image_id": "87.jpg",
+    "subjective": "Infant presents with ear symptoms.",
+    "objective": "Diagnosis noted: Otitis media. Weight: 4.4 kg. Prescriptions include antibiotic ear drops, saline drops, and nasal drops.",
+    "assessment": "Acute otitis media.",
+    "plan": "1. Antibiotic ear drops for 3 days. 2. Saline and nasal drops as instructed."
+  },
+  {
+    "image_id": "88.jpg",
+    "subjective": "59-year-old male presents for blood pressure management.",
+    "objective": "Date: April 10, 2010. Medication: Losartan 50 mg tablets, dispense #30.",
+    "assessment": "Hypertension.",
+    "plan": "Take one tablet orally every morning for blood pressure control; refills authorized."
+  },
+  {
+    "image_id": "89.jpg",
+    "subjective": "20-year-old female with multiple chronic conditions presents with acute pain.",
+    "objective": "History includes GERD, hyperthyroidism, migraine, IBS, asthma, anxiety, depression. ESR 22. Multiple drug allergies noted.",
+    "assessment": "Acute pain episode with complex medical history.",
+    "plan": "1. Inj. Tramal with antiemetic as SOS. 2. Inj. Avil with Solu-Cortef SOS. 3. Inj. Risek IV SOS."
+  },
+  {
+    "image_id": "90.jpg",
+    "subjective": "41-year-old female diagnosed with left breast carcinoma.",
+    "objective": "Diagnosis: Carcinoma left breast, clinical stage T4bN0M0.",
+    "assessment": "Locally advanced breast cancer.",
+    "plan": "Neo-adjuvant chemotherapy followed by reassessment for surgery and adjuvant radiotherapy."
+  },
+  {
+    "image_id": "91.jpg",
+    "subjective": "Infant presents for evaluation and treatment of anemia.",
+    "objective": "Date: March 10, 2009. Patient: Kevin Zadnick. DOB: July 28, 2009. Weight: 16 pounds. Allergies: NKDA. Prescription: Ferrous sulfate.",
+    "assessment": "Iron deficiency anemia.",
+    "plan": "Ferrous sulfate 4 mL orally three times daily. Dispense one bottle. Refills for 6 months."
+  },
+  {
+    "image_id": "92.jpg",
+    "subjective": "34-year-old male presents for routine medication management.",
+    "objective": "Facility: Riverside Medical Centre, New York. Patient: John Smith. Date: 09-11-12. Multiple medications prescribed.",
+    "assessment": "Chronic medical conditions requiring long-term pharmacologic management.",
+    "plan": "1. Betaloc 100 mg: 1 tablet twice daily. 2. Dorzolamide 10 mg: 1 tablet twice daily. 3. Cimetidine 50 mg: 2 tablets three times daily. 4. Oxprenolol 50 mg: 1 tablet once daily."
+  },
+  {
+    "image_id": "93.jpg",
+    "subjective": "37-year-old male hospitalized for viral infection requiring antiviral therapy.",
+    "objective": "Facility: Ramaiah Memorial Hospital. Date: 24/06/2021. Prescription: Remdesivir IV.",
+    "assessment": "Acute viral infection (likely COVID-19).",
+    "plan": "Remdesivir 200 mg IV on Day 1, followed by 100 mg IV daily for 4 days (Day 2–Day 5)."
+  },
+  {
+    "image_id": "94.jpg",
+    "subjective": "30-year-old male with facial pain and suspected fungal infection.",
+    "objective": "Facility: Manipal Hospitals. History of steroid use and mucormycosis evaluation. Advised antifungal therapy.",
+    "assessment": "Suspected mucormycosis.",
+    "plan": "Injectable liposomal amphotericin B 350 mg IV daily for 4 weeks (total planned doses documented)."
+  },
+  {
+    "image_id": "95.jpg",
+    "subjective": "Patient presents with severe headache.",
+    "objective": "Handwritten historical prescription by Dr. W. P. Baker. Medication includes cannabis extract and chloral hydrate.",
+    "assessment": "Severe headache.",
+    "plan": "Take prescribed capsules as directed; one dose every half hour as needed (historical context)."
+  },
+  {
+    "image_id": "96.jpg",
+    "subjective": "Patient presents with crush injury and neurological deficits.",
+    "objective": "Department: Neurosurgery. Findings include paraplegia and loss of sensation below umbilicus.",
+    "assessment": "Spinal cord injury with paraplegia.",
+    "plan": "MRI dorso-lumbar spine with contrast and review with reports."
+  },
+  {
+    "image_id": "97.jpg",
+    "subjective": "Adult male presents for antifungal treatment.",
+    "objective": "Facility: Yashoda Hospitals. Date: 18/05/2021. Prescription for amphotericin B.",
+    "assessment": "Invasive fungal infection.",
+    "plan": "Inj. Liposomal amphotericin B 300 mg IV once daily for 2 weeks OR conventional amphotericin B 50 mg IV once daily for 2 weeks."
+  },
+  {
+    "image_id": "98.jpg",
+    "subjective": "Patient presents for evaluation of multiple symptoms; handwritten medication list provided.",
+    "objective": "Old handwritten prescription listing compounded medications and doses.",
+    "assessment": "Condition unclear due to limited legibility.",
+    "plan": "Medications to be taken as prescribed; clinical correlation advised."
+  },
+  {
+    "image_id": "99.jpg",
+    "subjective": "Adult patient undergoing treatment for coronary artery disease.",
+    "objective": "Date: December 1, 2017. Facility: CHUS Sherbrooke. Medications include aspirin and clopidogrel.",
+    "assessment": "Coronary artery disease.",
+    "plan": "1. Aspirin 81 mg orally once daily. 2. Clopidogrel 75 mg orally once daily. 3. Acetaminophen 650 mg every 4 hours as needed."
+  },
+  {
+    "image_id": "100.jpg",
+    "subjective": "Child with hearing difficulties brought for ENT evaluation.",
+    "objective": "Patient: Babyriti Dubey, 1 year 2 months old. Findings: No BERA peak at 90 dB, OAE refer, impedance normal.",
+    "assessment": "Bilateral profound hearing loss.",
+    "plan": "CT scan temporal bone and MRI with cochlear implant protocol. Counsel family regarding cochlear implantation."
+  },
+  {
+    "image_id": "101.jpg",
+    "subjective": "Individual identified as a contact of a COVID-19 positive case, currently asymptomatic or with mild symptoms.",
+    "objective": "Issued by Sir Ganga Ram Hospital as per ICMR guidelines. Preventive medications advised.",
+    "assessment": "COVID-19 exposure – contact of positive case.",
+    "plan": "1. Home isolation. 2. Tab Hydroxychloroquine 400 mg once weekly. 3. Tab Vitamin C 1 g once daily. 4. Tab Zinc 50 mg once daily. 5. For fever: Crocin/Calpol 650 mg SOS. 6. For throat pain/cough: Cetirizine 10 mg OD and Syrup Alex 2/3 tsp TID. 7. Follow social distancing, hand hygiene, and mask use."
+  },
+  {
+    "image_id": "102.jpg",
+    "subjective": "Patient presents for general medical consultation; handwritten notes suggest respiratory or infectious symptoms.",
+    "objective": "Handwritten prescription with multiple medications; details partially illegible.",
+    "assessment": "Condition unclear due to limited legibility.",
+    "plan": "Medications to be taken as prescribed; follow-up as advised."
+  },
+  {
+    "image_id": "103.jpg",
+    "subjective": "Patient presents with illness requiring compounded syrup medication.",
+    "objective": "Historical prescription from Harriman & Foster, Whitinsville, Massachusetts.",
+    "assessment": "Acute illness treated with syrup preparation (historical context).",
+    "plan": "Take syrup as directed by physician when necessary."
+  },
+  {
+    "image_id": "104.jpg",
+    "subjective": "52-year-old female presents with abdominal pain.",
+    "objective": "Facility: Bhagwan Mahavir Hospital, Delhi. Vitals: BP 110/80 mmHg, PR 84 bpm. Provisional diagnosis includes K/C/O HTN.",
+    "assessment": "Abdominal pain with suspected cholecystitis/cholelithiasis and gallbladder pathology.",
+    "plan": "1. Inj. Diclofenac IM stat. 2. Inj. Rantac IM stat. 3. IV fluids (Ringer Lactate). 4. Tab Diclofenac 1 tab BD. 5. Tab Rantac 1 tab OD before breakfast. 6. USG abdomen planned and OPD review."
+  },
+  {
+    "image_id": "105.jpg",
+    "subjective": "Patient presents for medication reconciliation.",
+    "objective": "Medication list includes Stalevo, Levodopa, Carbidopa, and Entacapone.",
+    "assessment": "Parkinson’s disease.",
+    "plan": "Continue antiparkinsonian medications as prescribed."
+  },
+  {
+    "image_id": "106.jpg",
+    "subjective": "Female patient presents with menstrual irregularities and fertility concerns.",
+    "objective": "Notes indicate delayed periods, normal past events, and planned investigations.",
+    "assessment": "Anovulatory cycles.",
+    "plan": "1. Endocrine screening. 2. Return to clinic in 3 weeks."
+  },
+  {
+    "image_id": "107.jpg",
+    "subjective": "Patient presents with abdominal pain and possible urinary tract concern.",
+    "objective": "Notes indicate no intrauterine device string seen; ultrasound planned.",
+    "assessment": "Suspected gynecological/abdominal pathology.",
+    "plan": "Ultrasound to check position of IUD; review after imaging."
+  },
+  {
+    "image_id": "108.jpg",
+    "subjective": "Patient presents for follow-up with prescribed oral medications.",
+    "objective": "Prescription slip listing Diclofenac, Ranitidine, and B-complex.",
+    "assessment": "Pain and gastritis-related symptoms.",
+    "plan": "Take prescribed tablets as directed for 3 days; follow-up if symptoms persist."
+  },
+  {
+    "image_id": "109.jpg",
+    "subjective": "Patient presents with nasal or ENT-related complaints.",
+    "objective": "Historical prescription includes cocaine solution for topical use (historical context).",
+    "assessment": "ENT condition requiring local anesthetic/vasoconstrictor (historical).",
+    "plan": "Apply medication locally as directed (historical context)."
+  },
+  {
+    "image_id": "110.jpg",
+    "subjective": "Patient presents with hearing-related complaints.",
+    "objective": "CT temporal bone shows erosion involving lateral semicircular canal, retracted tympanic membrane, sclerosed mastoid; ossicles intact.",
+    "assessment": "Chronic suppurative otitis media with complications.",
+    "plan": "ENT management advised; correlate clinically and plan further treatment."
+  },
+  {
+    "image_id": "111.jpg",
+    "subjective": "39-year-old female presents for medication refill.",
+    "objective": "Name: Lolita Alvarado. Address: Bagong Ilog, Pasig City. Date: 02-05-2013. Medications prescribed: Fesol tablets and Ascorbic acid.",
+    "assessment": "Iron deficiency anemia.",
+    "plan": "1. Fesol tablet once daily (30 tablets). 2. Ascorbic acid 500 mg tablet once daily (30 tablets)."
+  },
+  {
+    "image_id": "112.jpg",
+    "subjective": "59-year-old male presents for hypertension management.",
+    "objective": "Date: April 10, 2010. Facility: Aptus Medical Arts. Medication: Losartan 50 mg tablets, dispense #30.",
+    "assessment": "Hypertension.",
+    "plan": "Take one tablet orally every morning for blood pressure control; refills authorized."
+  },
+  {
+    "image_id": "113.jpg",
+    "subjective": "Patient presents for antifungal therapy under ENT care.",
+    "objective": "Facility: Manipal Hospital. Prescription includes liposomal amphotericin B and conventional amphotericin B with vial counts noted.",
+    "assessment": "Invasive fungal infection (likely mucormycosis).",
+    "plan": "Administer liposomal amphotericin B 300 mg IV once daily OR conventional amphotericin B 50 mg IV once daily as directed."
+  },
+  {
+    "image_id": "114.jpg",
+    "subjective": "46-year-old male admitted with ENT complaints and neurological involvement.",
+    "objective": "Facility: Kamineni Hospitals. Diagnosis: Mucormycosis of paranasal sinuses with meningitis.",
+    "assessment": "Rhino-cerebral mucormycosis.",
+    "plan": "IV liposomal amphotericin B injections for 2 weeks; inpatient management advised."
+  },
+  {
+    "image_id": "115.jpg",
+    "subjective": "Patient on insulin therapy presents for dose documentation.",
+    "objective": "Insulin noted: Novorapid via FlexPen with recorded administered doses.",
+    "assessment": "Diabetes mellitus on insulin therapy.",
+    "plan": "Continue insulin as per documented dosing schedule; monitor blood glucose regularly."
+  },
+  {
+    "image_id": "116.jpg",
+    "subjective": "Patient presents with upper respiratory or sinus-related symptoms.",
+    "objective": "Handwritten prescription listing oral medications and nasal drops.",
+    "assessment": "Upper respiratory tract infection/sinusitis.",
+    "plan": "Take prescribed oral medications and nasal drops as directed."
+  },
+  {
+    "image_id": "117.jpg",
+    "subjective": "52-year-old female presents to emergency with abdominal pain and vomiting.",
+    "objective": "Facility: Dr. Baba Saheb Ambedkar Hospital, Rohini. Date: July 18, 2021. Provisional findings suggest biliary pathology.",
+    "assessment": "Acute abdominal pain with suspected biliary disease.",
+    "plan": "Emergency management, imaging, and surgical consultation advised."
+  },
+  {
+    "image_id": "118.jpg",
+    "subjective": "Adult patient presents for prescription of controlled medication (historical).",
+    "objective": "Historical handwritten prescription issued by R.G. Combs, MD; medication noted as cocaine compound.",
+    "assessment": "ENT-related condition requiring topical anesthetic (historical context).",
+    "plan": "Use medication as prescribed by physician (historical context)."
+  },
+  {
+    "image_id": "119.jpg",
+    "subjective": "Pediatric patient presents with respiratory symptoms.",
+    "objective": "Prescription by Dr. Sanjeev Kumar Sharma and Dr. Bharat Kumar Sharma. Diagnosis: Asthma.",
+    "assessment": "Bronchial asthma.",
+    "plan": "Nebulization with bronchodilators and supportive medications as prescribed; follow-up advised."
+  },
+  {
+    "image_id": "120.jpg",
+    "subjective": "7-year-old child presents with bacterial infection.",
+    "objective": "Medication prescribed: Amoxicillin suspension 125 mg. Dispensed quantity noted.",
+    "assessment": "Bacterial infection.",
+    "plan": "Administer amoxicillin suspension as directed for 10 days; no refills."
+  },
+  {
+    "image_id": "121.jpg",
+    "subjective": "Patient Sheeba Malik presents with low back pain radiating to the leg.",
+    "objective": "Date: 18-08-2018. Issued by Dr. Talat Aziz, Delhi. Diagnosis noted as sciatica with prolapsed disc.",
+    "assessment": "Sciatica due to prolapsed intervertebral disc.",
+    "plan": "Patient advised complete bed rest for 3 months from 18-08-2018 to 18-11-2018."
+  },
+  {
+    "image_id": "122.jpg",
+    "subjective": "Patient presents for seizure disorder management.",
+    "objective": "Prescription for Phenytoin Sodium Extended 100 mg three times daily; quantity #90.",
+    "assessment": "Seizure disorder (epilepsy).",
+    "plan": "Take Phenytoin Sodium Extended 100 mg orally three times daily."
+  },
+  {
+    "image_id": "123.jpg",
+    "subjective": "Patient with cancer-related pain presents for analgesic management.",
+    "objective": "Facility: Arlington Oncology Center. Prescription for Oxycontin 80 mg.",
+    "assessment": "Chronic cancer-related pain.",
+    "plan": "Oxycontin 80 mg as prescribed for pain control."
+  },
+  {
+    "image_id": "124.jpg",
+    "subjective": "52-year-old female presents to emergency with abdominal pain and vomiting.",
+    "objective": "Facility: Dr. Baba Saheb Ambedkar Hospital, Rohini. Date: July 18, 2021. Vitals stable. Imaging suggests biliary pathology with ascites and lymphadenopathy.",
+    "assessment": "Acute abdominal pain with suspected biliary malignancy or complicated gallbladder disease.",
+    "plan": "Emergency treatment with IV analgesics and antiemetics; surgical referral and further imaging advised."
+  },
+  {
+    "image_id": "125.jpg",
+    "subjective": "Patient presents for pain and thyroid-related complaints.",
+    "objective": "Date: 1 Nov 1994. Medications include Tolbutamide and Morphine 10 mg tablets.",
+    "assessment": "Chronic medical condition requiring analgesia.",
+    "plan": "Take medications as prescribed; morphine limited to maximum 5 tablets daily."
+  },
+  {
+    "image_id": "126.jpg",
+    "subjective": "Patient presents with sleep disturbance.",
+    "objective": "Prescription: Zolpidem 10 mg.",
+    "assessment": "Insomnia.",
+    "plan": "Take 1 tablet at night initially, then half tablet at night as advised."
+  },
+  {
+    "image_id": "127.jpg",
+    "subjective": "Patient presents with hypertension and gastrointestinal symptoms.",
+    "objective": "Medications listed include Nicardia, Lasix, Rantac, Emeset, Aspirin, and Nodosis.",
+    "assessment": "Hypertension with associated gastrointestinal complaints.",
+    "plan": "Continue listed medications as prescribed."
+  },
+  {
+    "image_id": "128.jpg",
+    "subjective": "Patient presents with cough requiring antitussive therapy.",
+    "objective": "Historical prescription by Dr. G.R. Combs for heroin hydrochloride cough mixture.",
+    "assessment": "Severe cough (historical context).",
+    "plan": "Use cough mixture as prescribed (historical context)."
+  },
+  {
+    "image_id": "129.jpg",
+    "subjective": "Female patient with metastatic breast cancer presents for oncology follow-up.",
+    "objective": "Facility: Netaji Subhas Chandra Bose Cancer Hospital. Diagnosis: Metastatic breast cancer with bone, lung, and liver involvement. HER2 positive.",
+    "assessment": "Metastatic breast cancer.",
+    "plan": "1. Chemotherapy regimen including Carboplatin, Paclitaxel, and Trastuzumab. 2. CBC monitoring. 3. Scheduled follow-up and reassessment."
+  }
+]
